@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Chauhan</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h3 align="center">A software developer from India.</h3>
 
 <p align = "center"><img  alt="Coder GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></p>
 
